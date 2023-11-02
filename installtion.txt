@@ -1,0 +1,13 @@
+typescript installtion
+1.open terminal
+2.write
+3.npm install -g typescript
+4.tsc --version
+
+
+how to run typescript file:-
+first make typescript file 
+after write command to run
+tsc filename.ts in terminal after 
+crate javascript file wrie otherterminal
+node filename.js you see output
